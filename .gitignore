@@ -1,0 +1,19 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+postgres_data/
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VSCode
+.vscode
+.idea
+
+# Environment file config
+.env*
+internal.sh
